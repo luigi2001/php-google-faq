@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height: 80px;
+    padding: 10px;
+    border-bottom: 1px solid gray;
+}
+
+.header-top{
+    display: flex;
+    line-height: 40px;
+}
+
+img{
+    width: 80px;
+}
+
+h1{
+    font-size: 22px;
+    margin-left: 10px;
+    color: gray;
+}
+
+ul li{
+    display: inline-block;
+    margin-right: 10px;
+    color: gray;
+}
+
+.special{
+    color: blue;
+    padding-bottom: 5px;
+    border-bottom: 2px solid blue;
+}
+
+main{
+    margin: 0 auto;
+    width: 80%;
+    padding: 40px;
+}
+
+h3{
+    margin: 20px 0;
+}
+
+p{
+    line-height: 30px;
+}
+
+footer{
+    padding: 10px 40px;
+    background-color: lightgray;
+}
+
+.footer{
+    margin: 0 auto;
+    width: 80%;
+}
+
+span{
+    font-size: 13px;
+}
